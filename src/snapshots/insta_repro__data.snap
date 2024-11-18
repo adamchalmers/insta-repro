@@ -1,0 +1,13 @@
+---
+source: src/main.rs
+expression: data
+snapshot_kind: text
+---
+nodes:
+  - nodes:
+      - nodes: []
+        data: 1.1578212823495775
+    data: -2.185039863261519
+  - nodes: []
+    data: -0.1425465430742778
+data: 1.557
